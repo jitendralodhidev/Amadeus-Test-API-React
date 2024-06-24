@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### Create config.js src root directory file with your credentials
+### Create config.js in src root directory file with your credentials
 
 ```
 const config = {
