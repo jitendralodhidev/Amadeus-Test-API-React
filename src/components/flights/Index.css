@@ -1,0 +1,29 @@
+.flight-booking-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-header {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .form-item {
+    margin-bottom: 16px;
+  }
+  
+  .radio-group {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .search-button {
+    width: 100%;
+  }
+  
