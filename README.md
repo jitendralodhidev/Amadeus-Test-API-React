@@ -8,14 +8,16 @@ In the project directory, you can run:
 
 ### Create config.js src root directory file with your credentials
 
+```
 const config = {
     clientId: 'Your-client-id',
     clientSecret: 'secret',
-    grantType: 'client_credentials',
+    grantType: 'client_credentials', // keep this value as it is
     userName: 'your-username',
     password: 'your-password'
 };
 export default config;
+```
 
 
 ### `npm install`
